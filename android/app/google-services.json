@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "436009743612",
+    "project_id": "elearning-2db88",
+    "storage_bucket": "elearning-2db88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436009743612:android:c3f248aae2d10cb6d2d379",
+        "android_client_info": {
+          "package_name": "id.edspert.elearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436009743612-ec0gdivl5ssu6ueijtoomhof1mpbuaf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6H60jVQikPlStnCjcafsJj30vD8d2LZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436009743612-ec0gdivl5ssu6ueijtoomhof1mpbuaf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
